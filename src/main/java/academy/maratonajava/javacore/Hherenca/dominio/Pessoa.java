@@ -1,10 +1,26 @@
 package academy.maratonajava.javacore.Hherenca.dominio;
 
 public class Pessoa {
-    private  String nome;
-    private String cpf;
-    private Enderco enderco;
+    protected String nome;
+    protected String cpf;
+    protected Enderco enderco;
 
+    static {
+        System.out.println("Dentro do bloco estático de pessoa");
+    }
+    {
+        System.out.println("Dentrp do bloco de inicialização de pessoa 1 ");
+    }  {
+        System.out.println("Dentrp do bloco de inicialização de pessoa 2 ");
+    }
+    public Pessoa(String nome){
+        System.out.println("Dentro do construtor");
+        this.nome = nome;
+    }
+    public Pessoa(String nome, String cpf){
+        this(nome);
+        this.cpf = cpf;
+    }
 
     public void imprimir(){
         System.out.println(this.nome);

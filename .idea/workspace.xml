@@ -5,81 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dbafd7ab-03da-4966-915a-09c93ff9a829" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Gassociacao/dominio/Escola.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Gassociacao/dominio/Jogador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Gassociacao/dominio/Professor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Gassociacao/test/EscolaTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Gassociacao/test/JogadorTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Gassociacao/test/JogadorTest03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Gassociacao/test/LeituraDoTeclado01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/ConnectionFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maratona-java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/intruducao/Aula01OlaDevDojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/intruducao/Aula01OlaDevDojo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/intruducao/Aula02TiposPrimitivos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/intruducao/Aula02TiposPrimitivos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/intruducao/Aula03TiposPrimitivosExercicio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/intruducao/Aula03TiposPrimitivosExercicio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/intruducao/Aula04Operadores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/intruducao/Aula04Operadores.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/intruducao/Aula05EstrutuasCondicinais02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/intruducao/Aula05EstrutuasCondicinais02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/intruducao/Aula05EstruturasCondicionais01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/intruducao/Aula05EstruturasCondicionais01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/intruducao/Aula05EstruturasCondicionais03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/intruducao/Aula05EstruturasCondicionais03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/intruducao/Aula05EstruturasCondicionais04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/intruducao/Aula05EstruturasCondicionais04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/intruducao/Aula05EstruturasCondicionais05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/intruducao/Aula05EstruturasCondicionais05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/intruducao/Aula05EstruturasCondicionais06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/intruducao/Aula05EstruturasCondicionais06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/intruducao/Aula06EstruturasDeRepeticao01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/intruducao/Aula06EstruturasDeRepeticao01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/intruducao/Aula06EstruturasDeRepeticao02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/intruducao/Aula06EstruturasDeRepeticao02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/intruducao/Aula06EstruturasDeRepeticao03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/intruducao/Aula06EstruturasDeRepeticao03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/intruducao/Aula06EstruturasDeRepeticao04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/intruducao/Aula06EstruturasDeRepeticao04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/intruducao/Aula06EstruturasDeRepeticao05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/intruducao/Aula06EstruturasDeRepeticao05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/intruducao/Aula07Arrays01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/intruducao/Aula07Arrays01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/intruducao/Aula07Arrays02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/intruducao/Aula07Arrays02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/intruducao/Aula07Arrays03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/intruducao/Aula07Arrays03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/intruducao/Aula08ArraysMultidimensionais01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/intruducao/Aula08ArraysMultidimensionais01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/intruducao/Aula08ArraysMultidimensionais01Exercicio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/intruducao/Aula08ArraysMultidimensionais01Exercicio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/intruducao/Aula08ArraysMultidimensionais01Exercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/intruducao/Aula08ArraysMultidimensionais01Exercicio2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/intruducao/Aula08ArraysMultidimensionais02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/intruducao/Aula08ArraysMultidimensionais02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Aintroducao/classes/dominio/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Aintroducao/classes/dominio/Carro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Aintroducao/classes/dominio/Estudante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Aintroducao/classes/dominio/Estudante.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Aintroducao/classes/dominio/Professor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Aintroducao/classes/dominio/Professor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Aintroducao/classes/test/CarroTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Aintroducao/classes/test/CarroTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Aintroducao/classes/test/EstudanteTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Aintroducao/classes/test/EstudanteTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Aintroducao/classes/test/ProfessorTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Aintroducao/classes/test/ProfessorTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Bintroducaometodos/dominio/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Bintroducaometodos/dominio/Calculadora.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Bintroducaometodos/dominio/Estudante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Bintroducaometodos/dominio/Estudante.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Bintroducaometodos/dominio/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Bintroducaometodos/dominio/Funcionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Bintroducaometodos/dominio/ImpressoraEstudante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Bintroducaometodos/dominio/ImpressoraEstudante.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Bintroducaometodos/dominio/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Bintroducaometodos/dominio/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Bintroducaometodos/test/CalculadoraTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Bintroducaometodos/test/CalculadoraTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Bintroducaometodos/test/CalculadoraTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Bintroducaometodos/test/CalculadoraTest02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Bintroducaometodos/test/CalculadoraTest03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Bintroducaometodos/test/CalculadoraTest03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Bintroducaometodos/test/CalculadoraTest04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Bintroducaometodos/test/CalculadoraTest04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Bintroducaometodos/test/CalculadoraTest05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Bintroducaometodos/test/CalculadoraTest05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Bintroducaometodos/test/EstudanteTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Bintroducaometodos/test/EstudanteTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Bintroducaometodos/test/EstudanteTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Bintroducaometodos/test/EstudanteTest02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Bintroducaometodos/test/FuncionarioTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Bintroducaometodos/test/FuncionarioTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Bintroducaometodos/test/PessoaTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Bintroducaometodos/test/PessoaTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Csobrecargametodos/dominio/Anime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Csobrecargametodos/dominio/Anime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Csobrecargametodos/test/AnimeTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Csobrecargametodos/test/AnimeTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Dconstrutores/dominio/Anime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Dconstrutores/dominio/Anime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Dconstrutores/test/AnimeTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Dconstrutores/test/AnimeTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Eblocosinicializacao/dominio/Anime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Eblocosinicializacao/dominio/Anime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Eblocosinicializacao/test/AnimeTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Eblocosinicializacao/test/AnimeTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Fmodificadorestatico/dominio/Anime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Fmodificadorestatico/dominio/Anime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Fmodificadorestatico/dominio/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Fmodificadorestatico/dominio/Carro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Fmodificadorestatico/test/AnimeTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Fmodificadorestatico/test/AnimeTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Fmodificadorestatico/test/CarroTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Fmodificadorestatico/test/CarroTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Gassociacao/dominio/Jogador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Jogador.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Gassociacao/test/JogadorTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Gassociacao/test/JogadorTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Hherenca/test/HerencaTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Isobreescrita/dominio/Anime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Isobreescrita/test/AnimeTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Jmodificadorfinal/dominio/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Jmodificadorfinal/dominio/Comprador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Jmodificadorfinal/dominio/Ferrari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Jmodificadorfinal/test/CarroTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Hherenca/dominio/Enderco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Hherenca/dominio/Enderco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Hherenca/dominio/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Hherenca/dominio/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Hherenca/dominio/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Hherenca/dominio/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Hherenca/test/HerencaTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Hherenca/test/HerencaTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,6 +64,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AnimeTest01.executor": "Run",
     "Application.ConnectionFactory.executor": "Run",
     "Application.EscolaTest01.executor": "Run",
     "Application.LeituraDoTeclado01.executor": "Run",
@@ -146,7 +84,20 @@
       <recent name="C:\Users\11\IdeaProjects\maratona-java\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LeituraDoTeclado01">
+  <component name="RunManager" selected="Application.AnimeTest01">
+    <configuration name="AnimeTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.maratonajava.javacore.Isobreescrita.test.AnimeTest01" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.maratonajava.javacore.Isobreescrita.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EscolaTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.maratonajava.javacore.Gassociacao.test.EscolaTest01" />
       <module name="maratona-java" />
@@ -175,6 +126,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AnimeTest01" />
         <item itemvalue="Application.LeituraDoTeclado01" />
         <item itemvalue="Application.EscolaTest01" />
       </list>
