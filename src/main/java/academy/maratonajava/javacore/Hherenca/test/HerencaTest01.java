@@ -10,15 +10,13 @@ public class HerencaTest01 {
         enderco.setRua("Rua 3");
         enderco.setCEP("353-185");
 
-        Pessoa pessoa = new Pessoa();
-        pessoa.setNome("Douglas");
+        Pessoa pessoa = new Pessoa("LALa");
         pessoa.setCpf("000000000");
         pessoa.setEnderco(enderco);
 
         pessoa.imprimir();
 
-        Funcionario funcionario = new Funcionario();
-        funcionario.setNome("Thiago");
+        Funcionario funcionario = new Funcionario("Lavi");
         funcionario.setCpf("4444444");
         funcionario.setSalario(2000);
         funcionario.imprimir();

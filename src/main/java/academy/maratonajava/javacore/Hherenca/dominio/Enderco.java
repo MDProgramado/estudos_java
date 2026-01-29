@@ -5,6 +5,7 @@ public class Enderco {
     private String CEP;
 
 
+
     public String getRua() {
         return rua;
     }
