@@ -8,7 +8,6 @@ public class CarroTest01 {
         Carro carro = new Carro();
 
         Comprador comprador2 = new Comprador();
-
         System.out.println();
     }
 }
