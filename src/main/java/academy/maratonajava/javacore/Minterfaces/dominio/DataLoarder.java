@@ -1,0 +1,13 @@
+package academy.maratonajava.javacore.Minterfaces.dominio;
+
+public interface DataLoarder {
+    public static final int MAX_DATA_SIZE = 10;
+    void load();
+    default void checkPermission(){
+        System.out.println("fazendo checagem de permissões");
+    }
+
+    static void retriveMaxDatasize(){
+        System.out.println("Dentro do retriveMaxDataSize na interface");
+    }
+}
