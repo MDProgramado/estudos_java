@@ -5,21 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dbafd7ab-03da-4966-915a-09c93ff9a829" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/main/java/academy/maratonajava/javacore/Jmodificadorfinal/dominio/Ferrari.java&#10;#&#9;src/main/java/academy/maratonajava/javacore/Jmodificadorfinal/test/CarroTest01.java">
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Kenum/dominio/TipoPagamento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Lclassesabstratas/dominio/Desenvolvedor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Lclassesabstratas/dominio/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Lclassesabstratas/dominio/Gerente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Lclassesabstratas/dominio/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Lclassesabstratas/test/FuncionarioTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Minterfaces/dominio/DataLoarder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Minterfaces/dominio/DataRemover.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Minterfaces/dominio/DatabaseLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Minterfaces/dominio/FilerLoarder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Minterfaces/test/DataLoaderTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Npolimofismo/dominio/Taxavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Npolimofismo/dominio/Televissao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Npolimofismo/dominio/Tomate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Npolimofismo/repositorio/Repositorio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Npolimofismo/repositorio/RepositorioArquivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Npolimofismo/repositorio/RepositorioBancoDeDados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Npolimofismo/repositorio/RepositorioMemoria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Npolimofismo/servico/CalculadoraImposto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Npolimofismo/test/ProdutoTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Npolimofismo/test/ProdutoTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Npolimofismo/test/ProdutoTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Npolimofismo/test/RepositorioTeste.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Kenum/dominio/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Kenum/dominio/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Kenum/dominio/TipoCliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Kenum/dominio/TipoCliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Kenum/test/ClienteTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Kenum/test/ClienteTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Npolimofismo/dominio/Computador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Npolimofismo/dominio/Computador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Npolimofismo/dominio/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/maratonajava/javacore/Npolimofismo/dominio/Produto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,8 +30,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -75,6 +75,9 @@
     "Application.EscolaTest01.executor": "Run",
     "Application.FuncionarioTest01.executor": "Run",
     "Application.LeituraDoTeclado01.executor": "Run",
+    "Application.ProdutoTest.executor": "Run",
+    "Application.ProdutoTest01.executor": "Run",
+    "Application.ProdutoTest02.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -90,8 +93,11 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\11\IdeaProjects\maratona-java\src\main\java" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="academy.maratonajava.javacore.Npolimofismo.test" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.FuncionarioTest01">
+  <component name="RunManager" selected="Application.ProdutoTest02">
     <configuration name="AnimeTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.maratonajava.javacore.Isobreescrita.test.AnimeTest01" />
       <module name="maratona-java" />
@@ -118,19 +124,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EscolaTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.maratonajava.javacore.Gassociacao.test.EscolaTest01" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="academy.maratonajava.javacore.Gassociacao.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="FuncionarioTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.maratonajava.javacore.Lclassesabstratas.test.FuncionarioTest01" />
       <module name="maratona-java" />
@@ -144,12 +137,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeituraDoTeclado01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.maratonajava.javacore.Gassociacao.test.LeituraDoTeclado01" />
+    <configuration name="ProdutoTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.maratonajava.javacore.Npolimofismo.test.ProdutoTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.maratonajava.javacore.Gassociacao.test.*" />
+          <option name="PATTERN" value="academy.maratonajava.javacore.Npolimofismo.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProdutoTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.maratonajava.javacore.Npolimofismo.test.ProdutoTest02" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.maratonajava.javacore.Npolimofismo.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProdutoTest02" />
+        <item itemvalue="Application.ProdutoTest01" />
         <item itemvalue="Application.FuncionarioTest01" />
         <item itemvalue="Application.ClienteTest01" />
         <item itemvalue="Application.AnimeTest01" />
-        <item itemvalue="Application.LeituraDoTeclado01" />
-        <item itemvalue="Application.EscolaTest01" />
       </list>
     </recent_temporary>
   </component>
